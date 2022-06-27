@@ -1,4 +1,4 @@
-# Pneumonia chest xray
+# Pneumonia chest x-ray
 
 ##Project Abstract 
 
