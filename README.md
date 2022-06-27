@@ -8,4 +8,6 @@ Pneumonia is a lung infection that ranges from mild to life-threatening conseque
 
 The dataset consists of roughly 6,000 chest x-rays taken from pediatric patients in Guangzhou, China with each x-ray labeled “Pneumonia” or “Normal” as identified by two expert physicians. The types of models we considered include Logistic Regression, Support Vector Machines and Convolutional Neural Networks. In addition, we aimed to incorporate some feature engineering to augment these models.
 
+Findings can be found in the pdf article.
 
+Other contributors: Sara Nayak, James Kuang
